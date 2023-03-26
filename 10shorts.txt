@@ -1,0 +1,40 @@
+To swap through different desktop screens in Windows 10, you can use the following keyboard shortcuts:
+
+Windows key + Tab: This opens the Task View and allows you to see all open windows on all desktops.
+
+Windows key + Ctrl + D: This creates a new virtual desktop.
+
+Windows key + Ctrl + left or right arrow: This allows you to switch between virtual desktops.
+
+Windows key + Ctrl + F4: This closes the current virtual desktop.
+
+Using these key
+
+board shortcuts, you can quickly switch between different desktop screens and organize your work more efficiently.
+
+
+
+
+
+Here are some of the most commonly used Windows 10 shortcuts:
+
+Windows key: Open or close the Start menu
+Windows key + A: Open Action Center
+Windows key + C: Open Cortana in listening mode
+Windows key + D: Show desktop
+Windows key + E: Open File Explorer
+Windows key + G: Open Game bar
+Windows key + H: Open dictation
+Windows key + I: Open Settings
+Windows key + K: Open Connect quick action
+Windows key + L: Lock your PC or switch accounts
+Windows key + M: Minimize all windows
+Windows key + R: Open Run dialog box
+Windows key + S: Open Search
+Windows key + U: Open Ease of Access Center
+Windows key + X: Open Quick Link menu
+Windows key + number: Open the app pinned to the taskbar in that position
+Windows key + Ctrl + D: Add a virtual desktop
+Windows key + Ctrl + F4: Close the virtual desktop you're using
+Windows key + Ctrl + left or right arrow: Switch between virtual desktops
+These are just a few of the many keyboard shortcuts available in Windows 10. You can find a more comprehensive list in the Windows 10 documentation.
